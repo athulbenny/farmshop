@@ -1,9 +1,9 @@
-# Farm2Me
+# FarmShop
 
 
 A new Flutter project.
 
-## Why Farm2Me:
+## Why FarmShop:
  - Build a direct link between farmers and customers
  - Avoiding intermediaries 
  -  Farmers can add their product with the expected price (farmers will be given full control over their products)
@@ -29,4 +29,4 @@ A new Flutter project.
 ### Requirements for running project:
 - android studio
 
-Web version will be hosted soon
+
